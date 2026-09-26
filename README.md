@@ -13,6 +13,8 @@ it.
 | `regularisation_paths.py` | [L1, L2 and elastic net, watched on the weights](https://chekh.dev/writing/l1-l2-and-elastic-net-watched-on-the-weights/) | under 1 min |
 | `classification_metrics.py` | [Classification metrics that change the decision](https://chekh.dev/writing/classification-metrics-that-change-the-decision/) | about 1 min |
 | `regression_baselines.py` | [Regression: beat the baseline before you trust R²](https://chekh.dev/writing/regression-beat-the-baseline-before-you-trust-r-squared/) | under 1 min |
+| `ml_map.py` | [Machine learning in one map: what each branch is for](https://chekh.dev/writing/machine-learning-in-one-map-what-each-branch-is-for/) | about 1 min |
+| `bandit.py` | [Reinforcement learning, starting from a bandit](https://chekh.dev/writing/reinforcement-learning-starting-from-a-bandit/) | under 1 min |
 
 ## Run it
 
@@ -54,6 +56,10 @@ The scripts are meant to be edited. Some places to start:
 - `classification_metrics.py` — change `TARGET_RECALL`, or swap in another imbalanced
   OpenML dataset by its `data_id`
 - `regression_baselines.py` — add a model to the `models` dict and it joins every chart
+- `ml_map.py` — hide the left half of the digits instead of the bottom, or ask k-means
+  for twelve groups instead of ten
+- `bandit.py` — change `ARMS` (the hidden win rates) or `EPSILON`, or add a strategy to
+  `play` and `STRATEGIES`
 
 Versions are pinned in `uv.lock`. The numbers in the articles were produced with Python
 3.12, scikit-learn 1.9 and NumPy 2.5; other versions may differ in the last digit.

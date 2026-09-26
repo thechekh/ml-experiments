@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="595.117pt" height="90.72pt" viewBox="0 0 595.117 90.72" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 90.72 
+L 595.117 90.72 
+L 595.117 0 
+L 0 0 
+L 0 90.72 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.187 83.52 
+L 44.407 83.52 
+L 44.407 58.3 
+L 19.187 58.3 
+L 19.187 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p18fbc6a63e)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA/ElEQVR4nNWVrQ2EQBSE5yYnsGhwhFABlhbQ1EAfKDQajaIMEiQIDJIGUDjO3vIIay65t5+bydufTCa7r/M8TzzQNI3wyrI0dBRFYibPc0MPw2DoruvEGkIRhCIIRbxsnRnHUXhVVRm673vrQddezfOsOxlCEYQiCJcKfMdxHIYuikLMTNP0WFjP83QnQyiCcL0zV7ZtE14YhoZelsXQSZLoToZQBKEIQhHvX2wSBIF1Zt93t5IhFEG41Jnj8inefYJpmooZ3/fdToZQBOFSZ+q6Fl7btobOssx60F2vVCdDKIJQBOFSgeM4Ft66rtaNrw+jc8kQiuC/L/DNB8llRIjuiDQ8AAAAAElFTkSuQmCC" id="imagefaeab99f20" transform="scale(1 -1) translate(0 -25.2)" x="19.44" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 19.187 83.52 
+L 19.187 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 19.187 83.52 
+L 44.407 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <!-- 2 -->
+    <g style="fill: #1c1e1a" transform="translate(29.393719 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-360" d="M 262 0 
+Q 262 448 422 768 
+Q 582 1088 832 1347 
+Q 1082 1606 1350 1856 
+Q 1798 2278 1990 2627 
+Q 2182 2976 2182 3309 
+Q 2182 3526 2124 3731 
+Q 2067 3936 1923 4067 
+Q 1779 4198 1510 4198 
+Q 1312 4198 1152 4099 
+Q 992 4000 922 3866 
+Q 986 3795 1014 3705 
+Q 1043 3616 1043 3552 
+Q 1043 3482 1004 3392 
+Q 966 3302 880 3238 
+Q 794 3174 646 3174 
+Q 467 3187 371 3312 
+Q 275 3437 275 3603 
+Q 275 3744 364 3913 
+Q 454 4083 630 4236 
+Q 806 4390 1062 4486 
+Q 1318 4582 1651 4582 
+Q 1997 4582 2317 4467 
+Q 2637 4352 2848 4093 
+Q 3059 3834 3059 3392 
+Q 3059 3174 2944 2928 
+Q 2829 2682 2534 2362 
+Q 2240 2042 1702 1600 
+Q 1318 1286 1113 1024 
+Q 909 762 877 602 
+L 2093 570 
+Q 2291 563 2441 585 
+Q 2592 608 2678 701 
+Q 2765 794 2765 992 
+L 3104 992 
+L 3059 0 
+L 262 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-360"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 68.597 83.52 
+L 93.817 83.52 
+L 93.817 58.3 
+L 68.597 58.3 
+L 68.597 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pc14b4c2dea)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABBklEQVR4nO2XsW2EQBREh68LSImQICShAEhogpiUGuiADpBogi6ogQghyCCmAy7137Vu75x4sPyy+ZovodnRAt51XRcczPOsdJqmrhW0bWvNmqZR2vd9pQVECIgQEOG90xnP85Tu+97y5HmudFVVlmccR6XjOOZNRkCEgAgBEY/vhvu+v1yq69qamRdYWZaW5zgOpf8L/Hc6cxhn+xOSJLl3MgIiBEQI2AscRdHLpWmanG/tdV2dHupkBEQI2DsTG19gJtu2Ofvwjoc6GQERAvbOmBRFoXTXdZZnWRalgyDArZMRECEgQnC339vzPJXOsszyhGGo9DAMH1+mVMkIiJDffoCvPAFNaTvBeSL7lQAAAABJRU5ErkJggg==" id="imagef3633c7e63" transform="scale(1 -1) translate(0 -25.2)" x="68.4" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_6">
+    <path d="M 68.597 83.52 
+L 68.597 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 68.597 83.52 
+L 93.817 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_2">
+    <!-- 0 -->
+    <g style="fill: #1c1e1a" transform="translate(78.367781 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-35e" d="M 2022 -102 
+Q 1530 -102 1200 106 
+Q 870 314 672 656 
+Q 474 998 387 1408 
+Q 301 1818 301 2221 
+Q 301 2624 406 3040 
+Q 512 3456 726 3805 
+Q 941 4154 1270 4368 
+Q 1600 4582 2048 4582 
+Q 2509 4582 2832 4371 
+Q 3155 4160 3353 3817 
+Q 3552 3475 3641 3065 
+Q 3731 2656 3731 2253 
+Q 3731 1856 3632 1440 
+Q 3533 1024 3325 675 
+Q 3117 326 2790 112 
+Q 2464 -102 2022 -102 
+z
+M 2061 282 
+Q 2298 282 2454 435 
+Q 2611 589 2700 848 
+Q 2790 1107 2828 1436 
+Q 2867 1766 2867 2118 
+Q 2867 2509 2832 2880 
+Q 2797 3251 2707 3548 
+Q 2618 3846 2454 4025 
+Q 2291 4205 2035 4205 
+Q 1786 4205 1619 4051 
+Q 1453 3898 1353 3635 
+Q 1254 3373 1212 3043 
+Q 1171 2714 1171 2355 
+Q 1171 2022 1203 1660 
+Q 1235 1299 1328 985 
+Q 1421 672 1597 477 
+Q 1773 282 2061 282 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-35e"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 118.007 83.52 
+L 143.227 83.52 
+L 143.227 58.3 
+L 118.007 58.3 
+L 118.007 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p41afa5f457)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABD0lEQVR4nNWVIY6FQBBE63f2AHAFOANcABI0CjQSi0VyDxzBoUk4AVwAgcUSBJ7Nup2Zn09Ys8VzNanuTCqd7td5niduEsfxpafrurttISBCQISAiK+/FKVp+lH/sO+7oi3LelYyAiIERAiYB3hdV8N0HIei+76/bNw0jaLzPH9WMgIiBES89EOZZZlhquv6dmPXdRW9LMuzkhEQISBCwDzA0zQZJt/3Fd22raIdx7msGYbB8ARBwJuMgAgB86H0PM8w6QtsHEdFJ0li1OhzFYah4ZnnmTcZAREC5j3zjknbPVEUKXrbNlxRVZXxpvehSkZAhIAIwdMGWKcoCkXbtm14yrLEo5MRECH//YHffAPYCUtCf6gscQAAAABJRU5ErkJggg==" id="image15e1087a44" transform="scale(1 -1) translate(0 -25.2)" x="118.08" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="patch_9">
+    <path d="M 118.007 83.52 
+L 118.007 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 118.007 83.52 
+L 143.227 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <!-- 4 -->
+    <g style="fill: #1c1e1a" transform="translate(128.1645 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-362" d="M 2643 934 
+Q 2643 774 2636 630 
+Q 2630 486 2618 397 
+Q 2733 403 2873 409 
+Q 3014 416 3104 416 
+L 3104 0 
+L 1350 0 
+L 1350 352 
+L 1389 352 
+Q 1645 358 1763 486 
+Q 1882 614 1882 992 
+L 1882 1184 
+L 77 1184 
+L 77 1690 
+L 2310 4582 
+L 2643 4582 
+L 2643 1696 
+L 3277 1696 
+L 3277 1184 
+L 2643 1184 
+L 2643 934 
+z
+M 1875 3386 
+L 614 1722 
+L 1882 1709 
+L 1888 3386 
+L 1875 3386 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-362"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 167.417 83.52 
+L 192.637 83.52 
+L 192.637 58.3 
+L 167.417 58.3 
+L 167.417 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pac50be4b15)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABBUlEQVR4nNWXIY6FMBiE501WoAhnwHAGMCjuQIJC40BzBRzcA8kNCOECCHBoLI5n6TZLcfv3czNpaTOZtPRzXdeFB/Z917w4jhW9ritM5Hmu6K7rtDGEIAhBEIL4mDpznucr784wDJqXpqmip2mSnQwhCEIQhCB+TAMcx3nl3fF937iw67qykyEEQdjUmTeXZ9/3ip7nWZsTRZGigyCQnQwhCEIQhE0FXpZF88IwfJxzHIfmtW1rVzKEIAib/vSqqtK8cRwVnWWZoouiMPbI8zzZyRCCIGw6Z7ZtM36kaZrH1+NfHRGdDCEIQhCETQVOkkTzfh9qZVkquq5r+5MhBMH/3sCdLz3LRMptaYuoAAAAAElFTkSuQmCC" id="image18b40a7b62" transform="scale(1 -1) translate(0 -25.2)" x="167.76" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="patch_12">
+    <path d="M 167.417 83.52 
+L 167.417 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 167.417 83.52 
+L 192.637 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_4">
+    <!-- 9 -->
+    <g style="fill: #1c1e1a" transform="translate(177.430359 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-367" d="M 1638 -102 
+Q 1216 -102 957 19 
+Q 698 141 582 329 
+Q 467 518 467 717 
+Q 467 883 566 1014 
+Q 666 1146 845 1146 
+Q 1056 1152 1133 1027 
+Q 1210 902 1210 787 
+Q 1210 730 1187 650 
+Q 1165 570 1120 518 
+Q 1171 416 1296 345 
+Q 1421 275 1632 282 
+Q 1907 294 2089 457 
+Q 2272 621 2374 886 
+Q 2477 1152 2515 1462 
+Q 2554 1773 2547 2067 
+Q 2426 1914 2179 1782 
+Q 1933 1651 1651 1645 
+Q 1165 1632 864 1837 
+Q 563 2042 425 2378 
+Q 288 2714 288 3110 
+Q 288 3539 480 3868 
+Q 672 4198 1014 4390 
+Q 1357 4582 1818 4582 
+Q 2400 4582 2736 4294 
+Q 3072 4006 3219 3507 
+Q 3366 3008 3366 2381 
+Q 3366 2093 3328 1760 
+Q 3290 1427 3184 1097 
+Q 3078 768 2886 496 
+Q 2694 224 2387 61 
+Q 2080 -102 1638 -102 
+z
+M 1811 2080 
+Q 2048 2080 2253 2233 
+Q 2458 2387 2541 2598 
+Q 2534 3002 2467 3370 
+Q 2400 3738 2240 3971 
+Q 2080 4205 1798 4205 
+Q 1581 4205 1433 4067 
+Q 1286 3930 1212 3715 
+Q 1139 3501 1139 3258 
+Q 1139 3104 1161 2902 
+Q 1184 2701 1254 2512 
+Q 1325 2323 1459 2201 
+Q 1594 2080 1811 2080 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-367"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_14">
+    <path d="M 216.827 83.52 
+L 242.047 83.52 
+L 242.047 58.3 
+L 216.827 58.3 
+L 216.827 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pcd303218f5)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABE0lEQVR4nO2WMQ5EUBCGZyd7ANFScQStS+i0HEGLI7gCrVblBk6gViHRKXU22+28t5HYZn+b/bpP3v8ik8nMu+37vtNJgiDQvnmeJzzLsrPXEhMQTEAwAXH/JOQp/fGkbVvh/5752Z5hQm/gdV2FL8si3DRNLdN1nfBpmoRblnWtyjABwQTE7d2ijONYeFVVpy9OkkR4URTXqgwTEExAMKEPPcdxhLuuK7zvey2TpqnwpmmE53muZQzDwK0MExBM6ENvUpacbdvC67rWLvJ9/zATRZGWKcsStzJMQDChzxlLeQipPRKGoZZRz4zjKHye52tVhgkIJiCY0IeeyrZth0vx3WtwGIbDpQhfGSYg+Ns/8MoDC2pNnSbp5IcAAAAASUVORK5CYII=" id="image43a1094a0c" transform="scale(1 -1) translate(0 -25.2)" x="216.72" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="patch_15">
+    <path d="M 216.827 83.52 
+L 216.827 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 216.827 83.52 
+L 242.047 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <!-- 4 -->
+    <g style="fill: #1c1e1a" transform="translate(226.9845 54.3) scale(0.09 -0.09)">
+     <use xlink:href="#Lora-SemiBold-362"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_17">
+    <path d="M 266.237 83.52 
+L 291.457 83.52 
+L 291.457 58.3 
+L 266.237 58.3 
+L 266.237 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#pe250f0d526)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA9UlEQVR4nN2XMW6FMBBE549SUAItnARaLsJBqOAecBEK6OloKWmBhpooXRZH/0dKpIzzumd5LTRerczjuq4LP6RpGmet6zrj8zwbD4LAqSGEIIQghHj7jUOmaXLWlmXxOxlCCEIIQrmB+753NhVFYbyua+PDMDg1WZa9HHLSyRBCEMo9k+e5s+l+/1VV/f9kCCEIIQghHt956a3rajxN05cHR1FkfNs2v5IhhCB8e+klSWK8LEvjbds6NXEc+50MIQTh25y5cxzH05nyFfu+Gw/DUDsZQghCCML339vw1nz3IfjBOI7Gz/N8eoZcMoQQ/OsP+Mw7E0E32koPwwUAAAAASUVORK5CYII=" id="image96f7983a16" transform="scale(1 -1) translate(0 -25.2)" x="266.4" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12"/>
+   <g id="patch_18">
+    <path d="M 266.237 83.52 
+L 266.237 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 266.237 83.52 
+L 291.457 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <!-- 1 -->
+    <g style="fill: #1c1e1a" transform="translate(277.082859 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-35f" d="M 499 0 
+L 499 352 
+Q 755 365 870 480 
+Q 986 595 986 966 
+L 979 3686 
+L 262 3245 
+L 64 3558 
+L 1459 4582 
+L 1786 4582 
+L 1786 934 
+Q 1786 774 1782 630 
+Q 1779 486 1766 403 
+Q 1882 410 2029 416 
+Q 2176 422 2266 422 
+L 2266 0 
+L 499 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-35f"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_20">
+    <path d="M 315.647 83.52 
+L 340.867 83.52 
+L 340.867 58.3 
+L 315.647 58.3 
+L 315.647 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p9914f66aa4)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA/UlEQVR4nN2YsY2EMBREZ0cXQAYSEWRQAx0gUQKFQAghpVAEARUQkhPRA2SsLjuvV+xetON92Yz8LWv09W35dp7niRdM02R5RVFc1oRhaHnruho6CAJDE0IQQhBC/LyzaBgGy8uyzNB93xs6iiK3kyGEIIQgXGvgNE1felVVfVcyhBCEELd3LsrjOCzP931Db9tm6CRJ3E6GEIIQgnCtgZ9R1/Xly65tWzidDCEEod4z8zwbehxHq7BpmsshuO+7VeN5njvJEEIQ6o+rOI4N3XXdvzdelsXy8jx3JxlCCEIIwrWLcn4Ygr+UZXlZ8/j98ewLRDoZQgh++gB/uQMwZT0FM7RBoQAAAABJRU5ErkJggg==" id="imagecea22b4d19" transform="scale(1 -1) translate(0 -25.2)" x="315.36" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_13"/>
+   <g id="matplotlib.axis_14"/>
+   <g id="patch_21">
+    <path d="M 315.647 83.52 
+L 315.647 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 315.647 83.52 
+L 340.867 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <!-- 2 -->
+    <g style="fill: #1c1e1a" transform="translate(325.853719 54.3) scale(0.09 -0.09)">
+     <use xlink:href="#Lora-SemiBold-360"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_23">
+    <path d="M 365.057 83.52 
+L 390.277 83.52 
+L 390.277 58.3 
+L 365.057 58.3 
+L 365.057 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p8d41137f9a)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA9UlEQVR4nO2XoQ2DUBRFb286ACBAMACsgEZiWAGmwGNYAcMCGFZgDASOARB4mro+ftOmNX2f9LhD7v8hNy8vcNn3fceHrOtqPHNdV/iyLMLDMHx7L6EIQhGEIq7fHHIc521m2za7myEUQSiC0DzA0zQZoaqqPr44yzLhbdsamTRN9TZDKIKwbekNwyC8rmsjM46j8CAIhMdxbFczhCIIRRCaBziKIiOU57nwJEmMjOd5wruuE/7/0jvvzDyjaRrhZVkamXmecapmCEUQts1MdNg9vu8bmaIoXp6xrhlCEYQiCNt/b5vDErzT9/25miEUwV+/wCM34JErC24bWOAAAAAASUVORK5CYII=" id="image3bae89da25" transform="scale(1 -1) translate(0 -25.2)" x="365.04" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_15"/>
+   <g id="matplotlib.axis_16"/>
+   <g id="patch_24">
+    <path d="M 365.057 83.52 
+L 365.057 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 365.057 83.52 
+L 390.277 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <!-- 4 -->
+    <g style="fill: #1c1e1a" transform="translate(375.2145 54.3) scale(0.09 -0.09)">
+     <use xlink:href="#Lora-SemiBold-362"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_9">
+   <g id="patch_26">
+    <path d="M 414.467 83.52 
+L 439.687 83.52 
+L 439.687 58.3 
+L 414.467 58.3 
+L 414.467 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p041d814e13)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA+0lEQVR4nN2XMa5FUBiE505eQYfGNhQaK1Cr1BZiFxKdWmcNWlagsQO0Oq99x3khuc2d6+vmZEZk8uc/vI7jOHDBOI7WWdu2hp7n2fL0fW/ouq4Nnee5lSGEIIQghHidZ2bfd8Pguq4VKorC0GmaWp5hGC7nqus67WYIIQghCCF+3gnFcWzoKIosz7Isht627buaIYQglJfeNE2GIUmS24f8Nw++718uPc/ztJshhCCEIJSXXhiGt6F1XZ/fDCEEoTwzjuMYOggCK3T+GjxnHtEMIQShfFGeybLs9hJsmgaPa4YQghCC+Ka/g6qqrLOyLJ/fDCEEP/0Cf/kFs85Ei7/wDywAAAAASUVORK5CYII=" id="image1a6614d688" transform="scale(1 -1) translate(0 -25.2)" x="414.72" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_17"/>
+   <g id="matplotlib.axis_18"/>
+   <g id="patch_27">
+    <path d="M 414.467 83.52 
+L 414.467 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 414.467 83.52 
+L 439.687 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <!-- 6 -->
+    <g style="fill: #1c1e1a" transform="translate(424.485281 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-364" d="M 1856 -102 
+Q 1280 -102 944 163 
+Q 608 429 461 918 
+Q 314 1408 314 2074 
+Q 314 2298 358 2618 
+Q 403 2938 512 3280 
+Q 621 3622 819 3916 
+Q 1018 4211 1322 4396 
+Q 1626 4582 2067 4582 
+Q 2464 4582 2717 4448 
+Q 2970 4314 3094 4118 
+Q 3219 3923 3219 3738 
+Q 3219 3578 3126 3453 
+Q 3034 3328 2861 3328 
+Q 2643 3322 2563 3446 
+Q 2483 3571 2483 3686 
+Q 2483 3738 2502 3818 
+Q 2522 3898 2566 3962 
+Q 2522 4051 2390 4131 
+Q 2259 4211 2067 4205 
+Q 1786 4198 1610 4012 
+Q 1434 3827 1331 3548 
+Q 1229 3270 1184 2969 
+Q 1139 2669 1133 2419 
+Q 1254 2566 1507 2697 
+Q 1760 2829 2042 2835 
+Q 2528 2842 2825 2643 
+Q 3123 2445 3260 2109 
+Q 3398 1773 3398 1370 
+Q 3398 973 3196 637 
+Q 2995 301 2646 99 
+Q 2298 -102 1856 -102 
+z
+M 1882 282 
+Q 2131 282 2275 416 
+Q 2419 550 2480 764 
+Q 2541 979 2541 1216 
+Q 2541 1376 2518 1577 
+Q 2496 1779 2429 1964 
+Q 2362 2150 2230 2275 
+Q 2099 2400 1875 2400 
+Q 1638 2400 1430 2243 
+Q 1222 2086 1139 1882 
+Q 1146 1632 1184 1353 
+Q 1222 1075 1305 832 
+Q 1389 589 1529 435 
+Q 1670 282 1882 282 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-364"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_10">
+   <g id="patch_29">
+    <path d="M 463.877 83.52 
+L 489.097 83.52 
+L 489.097 58.3 
+L 463.877 58.3 
+L 463.877 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p07113acbee)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABB0lEQVR4nNWXoa2FUBBEh8kXkNABDoOBAggl0AAajaAAHJ4CEHSCwGBogDKQOL79l5t83nvmzT1uNrsXMtlsdr3rui48cJ6noYMgsHL2fTd0kiR4F0IIQghCCO+VnrlT17UVi+PY0F3XwWlnCCEIIQjXG3jbNivWtq2h53m2cnzfd8cZQgjC9Z4pisKKrev6WNf3/b+DUcoZQghCCEKIn0+KpmmyYuM4GnoYBisnz3N3nCGEINSH3nm7BtI0NfSyLNZDURSZD3ve2xeElDOEEIT6nPFvS1CWZYZumsaqqarq8WNhGLrjDCEEIQTh2qZ3HIehy7J83PTuW90rJ6+UM4QQ/PYP/OUXzLNIOVsv7MoAAAAASUVORK5CYII=" id="image99d630f04d" transform="scale(1 -1) translate(0 -25.2)" x="463.68" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_19"/>
+   <g id="matplotlib.axis_20"/>
+   <g id="patch_30">
+    <path d="M 463.877 83.52 
+L 463.877 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 463.877 83.52 
+L 489.097 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <!-- 7 -->
+    <g style="fill: #1c1e1a" transform="translate(474.390281 54.3) scale(0.09 -0.09)">
+     <defs>
+      <path id="Lora-SemiBold-365" d="M 1267 -102 
+Q 1094 -96 1024 6 
+Q 954 109 954 237 
+Q 954 371 1021 579 
+Q 1088 787 1184 1030 
+Q 1280 1274 1376 1504 
+Q 1542 1907 1798 2521 
+Q 2054 3136 2394 3904 
+L 934 3910 
+Q 704 3910 566 3804 
+Q 429 3699 429 3437 
+L 109 3437 
+L 141 4480 
+L 2854 4480 
+L 2854 3949 
+Q 2630 3494 2470 3072 
+Q 2310 2650 2182 2224 
+Q 2054 1798 1939 1340 
+Q 1824 883 1690 352 
+Q 1645 179 1545 35 
+Q 1446 -109 1267 -102 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Lora-SemiBold-365"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_11">
+   <g id="patch_32">
+    <path d="M 513.287 83.52 
+L 538.507 83.52 
+L 538.507 58.3 
+L 513.287 58.3 
+L 513.287 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p1278fc5637)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAABEUlEQVR4nNWXIY6EUBBEazorSPAgOACHQAIKjcIhOQgngHOgkFgMBkfwKASCCzBZt82fDJMxWzz3ku6EVDr9m8dxHAcu6LpOeRRFVy2o61p5nudGjWVZygVECIgQEPHzSVEQBMqXZVFu27bRkySJct/3jZowDHmTERAhIEJAxOOTpfcN50U5z7NRUxQFbzICIgR3W3rf8GpGbpWMgAgBEYK7DXB3WmBVVSmP49jo2bZNeZqm90pGQISA+aGcXyyr5HS1tW17efn3ff/2OvzF8zzeZARECJj3zDiORpHrusr3fVeeZZnRM03T2/mgT0ZAhIAIwd3+DoZhUF6WpfJ1XY0ex3GUN01zr2QERMh/f8BfnnANS2ATv/A8AAAAAElFTkSuQmCC" id="imagec556b74f00" transform="scale(1 -1) translate(0 -25.2)" x="513.36" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_21"/>
+   <g id="matplotlib.axis_22"/>
+   <g id="patch_33">
+    <path d="M 513.287 83.52 
+L 513.287 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 513.287 83.52 
+L 538.507 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <!-- 9 -->
+    <g style="fill: #1c1e1a" transform="translate(523.300359 54.3) scale(0.09 -0.09)">
+     <use xlink:href="#Lora-SemiBold-367"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_12">
+   <g id="patch_35">
+    <path d="M 562.697 83.52 
+L 587.917 83.52 
+L 587.917 58.3 
+L 562.697 58.3 
+L 562.697 83.52 
+z
+" style="fill: none"/>
+   </g>
+   <g clip-path="url(#p38aebbbacf)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAA8UlEQVR4nNWXsQmEQBRE54YLBBPNjWxBEIxtwNQStATr0BLEUCMzO7ANY+3AS++74HGX3P8vm/3MsgzDLvs4z/PEl2zbJnQURUJ3Xed46rr+uC+hCEIRhCKev5h837+dr+tqPxlCEYQiCOsF9jzvdh7Hsf1kCEUQmjuzLIvQfd87pqqqhA7DUOgsy+wnQyiCUAShucBJkgjdtq1jStP0dtN5np21PM9tJUMogtDcmSAIhB6GwTGVZSn0NE1C7/tuPxlCEYQiHr/8KI/juH0oi6JwPOM42kqGUAShCML67yC4XIzXwjZNYz8ZQhH89wHeeQGOwC4IT0eDogAAAABJRU5ErkJggg==" id="image72594b8306" transform="scale(1 -1) translate(0 -25.2)" x="563.04" y="-58.32" width="25.2" height="25.2"/>
+   </g>
+   <g id="matplotlib.axis_23"/>
+   <g id="matplotlib.axis_24"/>
+   <g id="patch_36">
+    <path d="M 562.697 83.52 
+L 562.697 58.3 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 562.697 83.52 
+L 587.917 83.52 
+" style="fill: none; stroke: #e4e4da; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <!-- 1 -->
+    <g style="fill: #1c1e1a" transform="translate(573.542859 54.3) scale(0.09 -0.09)">
+     <use xlink:href="#Lora-SemiBold-35f"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_13">
+   <!-- Supervised classification — 96.9% of 450 held-out digits right -->
+   <g style="fill: #1c1e1a" transform="translate(7.2 17.26) scale(0.1 -0.1)">
+    <defs>
+     <path id="Lora-Regular-84" d="M 2867 3123 
+Q 2848 3430 2720 3705 
+Q 2592 3981 2349 4153 
+Q 2106 4326 1728 4326 
+Q 1331 4326 1120 4102 
+Q 909 3878 909 3578 
+Q 909 3309 1062 3126 
+Q 1216 2944 1462 2806 
+Q 1709 2669 1984 2541 
+Q 2227 2432 2470 2307 
+Q 2714 2182 2912 2022 
+Q 3110 1862 3228 1641 
+Q 3347 1421 3347 1114 
+Q 3347 582 2956 240 
+Q 2566 -102 1850 -102 
+Q 1562 -102 1254 -19 
+Q 947 64 710 224 
+L 742 -51 
+L 410 -51 
+L 371 1312 
+L 621 1312 
+Q 653 749 1011 457 
+Q 1370 166 1875 166 
+Q 2125 166 2336 259 
+Q 2547 352 2672 531 
+Q 2797 710 2797 966 
+Q 2797 1254 2643 1446 
+Q 2490 1638 2246 1779 
+Q 2003 1920 1728 2048 
+Q 1485 2157 1248 2278 
+Q 1011 2400 816 2557 
+Q 621 2714 502 2931 
+Q 384 3149 384 3456 
+Q 384 3622 441 3814 
+Q 499 4006 643 4182 
+Q 787 4358 1040 4470 
+Q 1293 4582 1683 4582 
+Q 1926 4582 2230 4515 
+Q 2534 4448 2797 4256 
+L 2771 4531 
+L 3098 4531 
+L 3098 3123 
+L 2867 3123 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-14a" d="M 1632 -102 
+Q 1286 -102 1052 26 
+Q 819 154 700 461 
+Q 582 768 582 1293 
+L 582 2432 
+Q 582 2534 585 2636 
+Q 589 2739 608 2848 
+Q 499 2842 387 2838 
+Q 275 2835 166 2829 
+L 166 3091 
+L 365 3091 
+Q 640 3091 765 3145 
+Q 890 3200 960 3264 
+L 1146 3264 
+L 1146 1312 
+Q 1146 762 1302 490 
+Q 1459 218 1837 224 
+Q 2080 230 2301 374 
+Q 2522 518 2656 717 
+L 2656 2362 
+Q 2656 2515 2662 2627 
+Q 2669 2739 2688 2848 
+Q 2573 2842 2457 2838 
+Q 2342 2835 2227 2829 
+L 2227 3091 
+L 2426 3091 
+Q 2701 3091 2825 3145 
+Q 2950 3200 3021 3264 
+L 3206 3264 
+L 3200 845 
+Q 3200 742 3193 556 
+Q 3187 371 3174 243 
+Q 3290 250 3405 256 
+Q 3520 262 3635 269 
+L 3635 0 
+L 2720 0 
+Q 2701 109 2691 205 
+Q 2682 301 2675 384 
+Q 2477 186 2195 42 
+Q 1914 -102 1632 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-136" d="M 224 -1632 
+L 224 -1440 
+Q 422 -1440 499 -1341 
+Q 576 -1242 589 -1066 
+Q 602 -890 602 -659 
+L 614 2432 
+Q 614 2534 617 2636 
+Q 621 2739 640 2848 
+Q 525 2842 413 2835 
+Q 301 2829 186 2822 
+L 186 3091 
+Q 467 3091 611 3116 
+Q 755 3142 822 3180 
+Q 890 3219 934 3264 
+L 1126 3264 
+Q 1133 3200 1139 3113 
+Q 1146 3027 1152 2918 
+Q 1344 3091 1609 3196 
+Q 1875 3302 2144 3302 
+Q 2515 3302 2835 3110 
+Q 3155 2918 3353 2563 
+Q 3552 2208 3552 1715 
+Q 3552 1171 3325 761 
+Q 3098 352 2726 125 
+Q 2355 -102 1920 -102 
+Q 1478 -102 1152 109 
+L 1152 -954 
+Q 1152 -1082 1149 -1181 
+Q 1146 -1280 1126 -1389 
+Q 1229 -1382 1328 -1379 
+Q 1427 -1376 1530 -1370 
+L 1530 -1632 
+L 224 -1632 
+z
+M 1907 154 
+Q 2214 154 2435 342 
+Q 2656 531 2774 860 
+Q 2893 1190 2893 1613 
+Q 2893 1958 2793 2275 
+Q 2694 2592 2480 2790 
+Q 2266 2989 1914 2989 
+Q 1696 2989 1494 2883 
+Q 1293 2778 1158 2630 
+Q 1158 2605 1161 2557 
+Q 1165 2509 1165 2390 
+Q 1165 2272 1165 2038 
+Q 1165 1805 1161 1408 
+Q 1158 1011 1158 403 
+Q 1485 154 1907 154 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-da" d="M 1830 -102 
+Q 1389 -102 1033 106 
+Q 678 314 473 694 
+Q 269 1075 269 1594 
+Q 269 2042 470 2432 
+Q 672 2822 1037 3062 
+Q 1402 3302 1882 3302 
+Q 2240 3302 2534 3148 
+Q 2829 2995 3005 2681 
+Q 3181 2368 3181 1888 
+L 928 1850 
+Q 922 1114 1171 669 
+Q 1421 224 1984 224 
+Q 2182 224 2390 294 
+Q 2598 365 2777 486 
+Q 2957 608 3066 755 
+L 3219 627 
+Q 3046 358 2803 198 
+Q 2560 38 2304 -32 
+Q 2048 -102 1830 -102 
+z
+M 947 2118 
+L 2579 2118 
+Q 2579 2349 2512 2563 
+Q 2445 2778 2291 2915 
+Q 2138 3053 1888 3053 
+Q 1517 3053 1270 2832 
+Q 1024 2611 947 2118 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-139" d="M 282 192 
+Q 480 192 557 291 
+Q 634 390 646 566 
+Q 659 742 659 973 
+L 659 2432 
+Q 659 2534 662 2636 
+Q 666 2739 685 2848 
+Q 570 2842 458 2838 
+Q 346 2835 230 2829 
+L 230 3091 
+L 429 3091 
+Q 704 3091 809 3145 
+Q 915 3200 986 3264 
+L 1171 3264 
+Q 1184 3162 1190 3011 
+Q 1197 2861 1203 2630 
+Q 1299 2790 1465 2944 
+Q 1632 3098 1840 3200 
+Q 2048 3302 2278 3302 
+Q 2458 3302 2592 3206 
+Q 2726 3110 2726 2899 
+Q 2726 2816 2652 2701 
+Q 2579 2586 2406 2592 
+Q 2266 2598 2182 2704 
+Q 2099 2810 2118 2950 
+Q 1875 2963 1625 2764 
+Q 1376 2566 1210 2253 
+L 1216 678 
+Q 1216 550 1213 451 
+Q 1210 352 1190 243 
+Q 1293 250 1392 253 
+Q 1491 256 1594 262 
+L 1594 0 
+L 282 0 
+L 282 192 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-15e" d="M 1498 -19 
+L 582 2067 
+Q 422 2432 371 2640 
+Q 320 2848 314 2957 
+L 38 2938 
+L 38 3200 
+L 1216 3200 
+L 1216 3008 
+Q 1024 3008 969 2909 
+Q 915 2810 953 2646 
+Q 992 2483 1069 2298 
+L 1562 1171 
+Q 1613 1062 1661 944 
+Q 1709 826 1754 698 
+L 1760 698 
+Q 1792 794 1833 902 
+Q 1875 1011 1907 1114 
+L 2419 2515 
+Q 2470 2669 2528 2784 
+Q 2586 2899 2611 2957 
+L 2202 2938 
+L 2202 3200 
+L 3213 3200 
+L 3213 3008 
+Q 3002 3008 2880 2793 
+Q 2758 2579 2592 2144 
+L 1754 -19 
+L 1498 -19 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-fb" d="M 282 192 
+Q 480 192 557 291 
+Q 634 390 646 566 
+Q 659 742 659 973 
+L 659 2432 
+Q 659 2534 665 2627 
+Q 672 2720 685 2848 
+Q 570 2842 458 2835 
+Q 346 2829 230 2822 
+L 230 3091 
+Q 512 3091 665 3116 
+Q 819 3142 899 3180 
+Q 979 3219 1024 3264 
+L 1210 3264 
+L 1210 678 
+Q 1210 550 1206 451 
+Q 1203 352 1184 243 
+Q 1286 250 1385 253 
+Q 1485 256 1587 262 
+L 1587 0 
+L 282 0 
+L 282 192 
+z
+M 896 3898 
+Q 761 3898 658 4006 
+Q 556 4115 556 4275 
+Q 556 4435 662 4547 
+Q 768 4659 902 4659 
+Q 1049 4659 1148 4547 
+Q 1248 4435 1248 4275 
+Q 1248 4115 1142 4006 
+Q 1036 3898 896 3898 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-13d" d="M 1594 -102 
+Q 1274 -102 1024 -16 
+Q 774 70 614 179 
+L 640 -45 
+L 371 -45 
+L 333 1056 
+L 531 1056 
+Q 544 794 678 586 
+Q 813 378 1024 262 
+Q 1235 147 1478 147 
+Q 1645 147 1805 201 
+Q 1965 256 2073 368 
+Q 2182 480 2182 653 
+Q 2182 832 2076 950 
+Q 1971 1069 1798 1158 
+Q 1626 1248 1427 1325 
+Q 1171 1427 918 1545 
+Q 666 1664 499 1859 
+Q 333 2054 333 2374 
+Q 333 2509 384 2669 
+Q 435 2829 556 2973 
+Q 678 3117 889 3209 
+Q 1101 3302 1427 3302 
+Q 1600 3302 1811 3244 
+Q 2022 3187 2221 3027 
+L 2208 3270 
+L 2477 3270 
+L 2477 2150 
+L 2272 2150 
+Q 2259 2374 2169 2582 
+Q 2080 2790 1907 2928 
+Q 1734 3066 1459 3066 
+Q 1165 3066 998 2918 
+Q 832 2771 832 2579 
+Q 832 2381 957 2249 
+Q 1082 2118 1280 2022 
+Q 1478 1926 1702 1837 
+Q 1946 1734 2176 1612 
+Q 2406 1491 2553 1308 
+Q 2701 1126 2701 838 
+Q 2701 518 2537 307 
+Q 2374 96 2121 -3 
+Q 1869 -102 1594 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-d6" d="M 1651 -102 
+Q 1261 -102 947 93 
+Q 634 288 451 653 
+Q 269 1018 269 1510 
+Q 269 2035 480 2438 
+Q 691 2842 1065 3072 
+Q 1440 3302 1914 3302 
+Q 2125 3302 2333 3248 
+Q 2541 3194 2662 3123 
+L 2662 4000 
+Q 2662 4102 2665 4195 
+Q 2669 4288 2682 4416 
+Q 2566 4410 2454 4403 
+Q 2342 4397 2227 4390 
+L 2227 4659 
+Q 2509 4659 2662 4684 
+Q 2816 4710 2896 4748 
+Q 2976 4787 3021 4832 
+L 3206 4832 
+L 3206 678 
+Q 3206 576 3200 473 
+Q 3194 371 3181 243 
+Q 3296 250 3408 256 
+Q 3520 262 3635 269 
+L 3635 0 
+L 2720 0 
+Q 2688 173 2675 333 
+Q 2496 134 2233 16 
+Q 1971 -102 1651 -102 
+z
+M 1882 211 
+Q 2093 211 2307 332 
+Q 2522 454 2662 634 
+Q 2656 710 2656 796 
+Q 2656 883 2656 986 
+L 2662 2829 
+Q 2509 2944 2326 2998 
+Q 2144 3053 1952 3053 
+Q 1632 3053 1395 2867 
+Q 1158 2682 1036 2349 
+Q 915 2016 928 1568 
+Q 941 1178 1053 870 
+Q 1165 563 1373 387 
+Q 1581 211 1882 211 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-28d" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-d0" d="M 1843 -102 
+Q 1414 -102 1052 93 
+Q 691 288 476 656 
+Q 262 1024 262 1542 
+Q 262 1875 384 2188 
+Q 506 2502 726 2755 
+Q 947 3008 1254 3155 
+Q 1562 3302 1933 3302 
+Q 2291 3302 2556 3193 
+Q 2822 3085 2969 2905 
+Q 3117 2726 3117 2515 
+Q 3117 2374 3040 2275 
+Q 2963 2176 2816 2176 
+Q 2656 2170 2589 2275 
+Q 2522 2381 2522 2464 
+Q 2522 2528 2541 2595 
+Q 2560 2662 2618 2720 
+Q 2566 2874 2438 2947 
+Q 2310 3021 2172 3043 
+Q 2035 3066 1946 3066 
+Q 1510 3066 1212 2717 
+Q 915 2368 915 1702 
+Q 915 1274 1052 941 
+Q 1190 608 1440 419 
+Q 1690 230 2016 230 
+Q 2317 230 2592 390 
+Q 2867 550 3021 781 
+L 3187 653 
+Q 3021 384 2787 217 
+Q 2554 51 2307 -25 
+Q 2061 -102 1843 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-10f" d="M 218 192 
+Q 416 192 493 291 
+Q 570 390 582 566 
+Q 595 742 595 973 
+L 595 4000 
+Q 595 4102 598 4195 
+Q 602 4288 614 4416 
+Q 499 4410 387 4403 
+Q 275 4397 160 4390 
+L 160 4659 
+Q 442 4659 598 4684 
+Q 755 4710 835 4748 
+Q 915 4787 960 4832 
+L 1146 4832 
+L 1152 678 
+Q 1152 550 1145 451 
+Q 1139 352 1120 243 
+Q 1222 250 1321 253 
+Q 1421 256 1523 262 
+L 1523 0 
+L 218 0 
+L 218 192 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-b7" d="M 2227 0 
+Q 2208 109 2201 192 
+Q 2195 275 2182 365 
+Q 1965 147 1712 22 
+Q 1459 -102 1178 -102 
+Q 691 -102 454 118 
+Q 218 339 218 659 
+Q 218 954 400 1168 
+Q 582 1382 873 1520 
+Q 1165 1658 1507 1725 
+Q 1850 1792 2170 1786 
+L 2170 2182 
+Q 2170 2406 2131 2604 
+Q 2093 2803 1965 2931 
+Q 1837 3059 1555 3066 
+Q 1370 3072 1174 2995 
+Q 979 2918 890 2733 
+Q 941 2682 957 2614 
+Q 973 2547 973 2490 
+Q 973 2413 909 2313 
+Q 845 2214 685 2221 
+Q 550 2221 480 2313 
+Q 410 2406 410 2534 
+Q 410 2752 573 2925 
+Q 736 3098 1024 3200 
+Q 1312 3302 1677 3302 
+Q 2214 3302 2470 3017 
+Q 2726 2733 2720 2118 
+Q 2720 1760 2717 1398 
+Q 2714 1037 2714 678 
+Q 2714 576 2707 473 
+Q 2701 371 2688 243 
+Q 2803 250 2915 256 
+Q 3027 262 3142 269 
+L 3142 0 
+L 2227 0 
+z
+M 2170 1568 
+Q 1952 1562 1712 1514 
+Q 1472 1466 1270 1370 
+Q 1069 1274 944 1117 
+Q 819 960 826 736 
+Q 838 499 982 380 
+Q 1126 262 1325 262 
+Q 1587 262 1782 361 
+Q 1978 461 2170 640 
+Q 2163 710 2163 793 
+Q 2163 877 2163 966 
+Q 2163 998 2166 1171 
+Q 2170 1344 2170 1568 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-171" d="M 320 0 
+L 320 192 
+Q 518 192 595 291 
+Q 672 390 685 566 
+Q 698 742 698 973 
+L 685 2925 
+L 160 2912 
+L 160 3200 
+L 685 3200 
+Q 685 4000 1072 4432 
+Q 1459 4864 2176 4864 
+Q 2509 4864 2781 4793 
+Q 3053 4723 3219 4595 
+Q 3386 4467 3386 4301 
+Q 3386 4179 3315 4089 
+Q 3245 4000 3110 4000 
+Q 2950 3994 2886 4093 
+Q 2822 4192 2822 4269 
+Q 2822 4314 2828 4358 
+Q 2835 4403 2854 4442 
+Q 2746 4525 2589 4573 
+Q 2432 4621 2227 4621 
+Q 1792 4621 1513 4329 
+Q 1235 4038 1235 3437 
+L 1235 3200 
+L 2701 3200 
+Q 2918 3200 3046 3222 
+Q 3174 3245 3200 3264 
+L 3386 3264 
+L 3386 678 
+Q 3386 550 3382 451 
+Q 3379 352 3360 243 
+Q 3462 250 3561 253 
+Q 3661 256 3763 262 
+L 3763 0 
+L 2458 0 
+L 2458 192 
+Q 2656 192 2733 291 
+Q 2810 390 2822 566 
+Q 2835 742 2835 973 
+L 2835 2560 
+Q 2835 2662 2841 2755 
+Q 2848 2848 2861 2976 
+L 1235 2938 
+L 1242 672 
+Q 1242 544 1238 448 
+Q 1235 352 1216 243 
+Q 1318 250 1417 253 
+Q 1517 256 1619 262 
+L 1619 0 
+L 320 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-145" d="M 1485 -102 
+Q 1338 -102 1184 -60 
+Q 1030 -19 899 102 
+Q 768 224 691 457 
+Q 614 691 614 1075 
+L 627 2931 
+L 134 2925 
+L 134 3200 
+Q 301 3206 473 3324 
+Q 646 3443 784 3648 
+Q 922 3853 973 4096 
+L 1190 4096 
+L 1190 3200 
+L 2266 3200 
+L 2266 2950 
+L 1190 2938 
+L 1178 1158 
+Q 1178 723 1290 492 
+Q 1402 262 1664 262 
+Q 1843 262 2000 364 
+Q 2157 467 2278 646 
+L 2451 506 
+Q 2266 224 2083 96 
+Q 1901 -32 1747 -67 
+Q 1594 -102 1485 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-11d" d="M 1869 -102 
+Q 1421 -102 1056 106 
+Q 691 314 476 682 
+Q 262 1050 262 1523 
+Q 262 2029 473 2432 
+Q 685 2835 1049 3068 
+Q 1414 3302 1869 3302 
+Q 2317 3302 2681 3088 
+Q 3046 2874 3264 2509 
+Q 3482 2144 3482 1677 
+Q 3482 1184 3267 777 
+Q 3053 371 2688 134 
+Q 2323 -102 1869 -102 
+z
+M 1920 154 
+Q 2259 154 2457 346 
+Q 2656 538 2742 845 
+Q 2829 1152 2829 1491 
+Q 2829 1779 2774 2057 
+Q 2720 2336 2605 2563 
+Q 2490 2790 2307 2924 
+Q 2125 3059 1869 3059 
+Q 1536 3059 1325 2867 
+Q 1114 2675 1014 2368 
+Q 915 2061 915 1709 
+Q 915 1312 1024 957 
+Q 1133 602 1357 378 
+Q 1581 154 1920 154 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-116" d="M 282 0 
+L 282 192 
+Q 480 192 557 291 
+Q 634 390 646 566 
+Q 659 742 659 973 
+L 666 2432 
+Q 666 2534 669 2636 
+Q 672 2739 691 2848 
+Q 576 2842 464 2835 
+Q 352 2829 237 2822 
+L 237 3091 
+Q 518 3091 662 3116 
+Q 806 3142 876 3180 
+Q 947 3219 992 3264 
+L 1178 3264 
+Q 1190 3194 1193 3101 
+Q 1197 3008 1203 2874 
+Q 1408 3059 1689 3180 
+Q 1971 3302 2246 3302 
+Q 2803 3302 3059 2953 
+Q 3315 2605 3315 1869 
+L 3315 678 
+Q 3315 550 3312 451 
+Q 3309 352 3290 243 
+Q 3392 250 3491 253 
+Q 3590 256 3693 262 
+L 3693 0 
+L 2387 0 
+L 2387 192 
+Q 2586 192 2662 291 
+Q 2739 390 2752 566 
+Q 2765 742 2765 973 
+L 2765 1869 
+Q 2758 2419 2582 2700 
+Q 2406 2982 2029 2976 
+Q 1798 2970 1577 2854 
+Q 1357 2739 1210 2560 
+Q 1216 2509 1216 2445 
+Q 1216 2381 1216 2310 
+L 1210 678 
+Q 1210 550 1206 451 
+Q 1203 352 1184 243 
+Q 1286 250 1385 253 
+Q 1485 256 1587 262 
+L 1587 0 
+L 282 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-2ad" d="M 422 1824 
+L 422 2272 
+L 4934 2272 
+L 4934 1850 
+L 422 1824 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-367" d="M 1645 -102 
+Q 1229 -102 969 22 
+Q 710 147 595 332 
+Q 480 518 480 685 
+Q 480 826 550 922 
+Q 621 1018 762 1024 
+Q 915 1030 982 931 
+Q 1050 832 1050 749 
+Q 1050 614 960 486 
+Q 1005 346 1155 243 
+Q 1306 141 1613 141 
+Q 1907 141 2105 281 
+Q 2304 422 2425 656 
+Q 2547 890 2611 1168 
+Q 2675 1446 2697 1721 
+Q 2720 1997 2720 2214 
+Q 2560 1997 2291 1837 
+Q 2022 1677 1645 1677 
+Q 1261 1677 1001 1808 
+Q 742 1939 592 2150 
+Q 442 2362 374 2611 
+Q 307 2861 307 3104 
+Q 307 3520 492 3856 
+Q 678 4192 1017 4387 
+Q 1357 4582 1818 4582 
+Q 2272 4582 2563 4409 
+Q 2854 4237 3020 3926 
+Q 3187 3616 3254 3200 
+Q 3322 2784 3322 2298 
+Q 3322 2016 3286 1693 
+Q 3251 1370 3152 1053 
+Q 3053 736 2867 477 
+Q 2682 218 2381 58 
+Q 2080 -102 1645 -102 
+z
+M 1779 1965 
+Q 1984 1965 2173 2064 
+Q 2362 2163 2509 2323 
+Q 2656 2483 2714 2669 
+Q 2694 2970 2643 3264 
+Q 2592 3558 2486 3801 
+Q 2381 4045 2208 4192 
+Q 2035 4339 1773 4339 
+Q 1498 4339 1312 4182 
+Q 1126 4026 1033 3776 
+Q 941 3526 941 3245 
+Q 941 3066 973 2845 
+Q 1005 2624 1091 2422 
+Q 1178 2221 1344 2093 
+Q 1510 1965 1779 1965 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-364" d="M 1888 -102 
+Q 1318 -102 982 166 
+Q 646 435 502 931 
+Q 358 1427 358 2106 
+Q 358 2336 400 2653 
+Q 442 2970 550 3306 
+Q 659 3642 854 3933 
+Q 1050 4224 1357 4403 
+Q 1664 4582 2099 4582 
+Q 2483 4582 2732 4444 
+Q 2982 4307 3107 4118 
+Q 3232 3930 3232 3770 
+Q 3232 3635 3165 3542 
+Q 3098 3450 2957 3437 
+Q 2797 3430 2733 3526 
+Q 2669 3622 2669 3706 
+Q 2669 3840 2746 3974 
+Q 2714 4090 2544 4218 
+Q 2374 4346 2112 4346 
+Q 1818 4346 1616 4192 
+Q 1414 4038 1289 3788 
+Q 1165 3539 1094 3254 
+Q 1024 2970 995 2707 
+Q 966 2445 960 2259 
+Q 1120 2470 1392 2633 
+Q 1664 2797 2035 2797 
+Q 2419 2797 2678 2665 
+Q 2938 2534 3094 2323 
+Q 3251 2112 3318 1859 
+Q 3386 1606 3386 1363 
+Q 3386 966 3190 630 
+Q 2995 294 2656 96 
+Q 2317 -102 1888 -102 
+z
+M 1901 147 
+Q 2202 147 2387 297 
+Q 2573 448 2656 694 
+Q 2739 941 2739 1222 
+Q 2739 1402 2707 1622 
+Q 2675 1843 2588 2044 
+Q 2502 2246 2336 2377 
+Q 2170 2509 1901 2509 
+Q 1702 2509 1510 2409 
+Q 1318 2310 1174 2150 
+Q 1030 1990 966 1805 
+Q 986 1498 1040 1203 
+Q 1094 909 1200 672 
+Q 1306 435 1478 291 
+Q 1651 147 1901 147 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-294" d="M 781 -102 
+Q 634 -102 522 16 
+Q 410 134 410 307 
+Q 410 480 525 601 
+Q 640 723 787 723 
+Q 947 723 1052 601 
+Q 1158 480 1158 307 
+Q 1158 134 1043 16 
+Q 928 -102 781 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-309" d="M 1389 2144 
+Q 1011 2144 752 2317 
+Q 493 2490 361 2762 
+Q 230 3034 230 3341 
+Q 230 3642 364 3923 
+Q 499 4205 758 4390 
+Q 1018 4576 1389 4582 
+Q 1786 4595 2048 4422 
+Q 2310 4250 2438 3974 
+Q 2566 3699 2566 3405 
+Q 2566 3078 2406 2790 
+Q 2246 2502 1980 2323 
+Q 1715 2144 1389 2144 
+z
+M 1056 -109 
+L 787 115 
+L 4397 4582 
+L 4685 4326 
+L 1056 -109 
+z
+M 1414 2374 
+Q 1645 2374 1776 2518 
+Q 1907 2662 1961 2876 
+Q 2016 3091 2016 3296 
+Q 2016 3450 1987 3629 
+Q 1958 3808 1884 3968 
+Q 1811 4128 1692 4230 
+Q 1574 4333 1389 4333 
+Q 1165 4333 1030 4182 
+Q 896 4032 838 3814 
+Q 781 3597 781 3386 
+Q 781 3251 809 3078 
+Q 838 2906 905 2746 
+Q 973 2586 1097 2480 
+Q 1222 2374 1414 2374 
+z
+M 4186 -102 
+Q 3789 -109 3526 64 
+Q 3264 237 3133 512 
+Q 3002 787 3002 1082 
+Q 3002 1414 3162 1699 
+Q 3322 1984 3590 2160 
+Q 3859 2336 4186 2336 
+Q 4570 2336 4826 2166 
+Q 5082 1997 5213 1721 
+Q 5344 1446 5344 1139 
+Q 5344 845 5209 560 
+Q 5075 275 4819 89 
+Q 4563 -96 4186 -102 
+z
+M 4205 128 
+Q 4429 128 4557 278 
+Q 4685 429 4739 649 
+Q 4794 870 4794 1069 
+Q 4794 1210 4765 1386 
+Q 4736 1562 4669 1722 
+Q 4602 1882 4477 1984 
+Q 4352 2086 4160 2086 
+Q 3936 2086 3801 1945 
+Q 3667 1805 3612 1597 
+Q 3558 1389 3558 1184 
+Q 3558 1024 3590 841 
+Q 3622 659 3696 496 
+Q 3770 333 3894 230 
+Q 4019 128 4205 128 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-ef" d="M 685 3334 
+Q 685 4045 944 4454 
+Q 1203 4864 1837 4864 
+Q 1978 4864 2134 4816 
+Q 2291 4768 2406 4662 
+Q 2522 4557 2522 4390 
+Q 2522 4269 2454 4185 
+Q 2387 4102 2259 4102 
+Q 2106 4096 2045 4195 
+Q 1984 4294 1984 4365 
+Q 1984 4403 1990 4441 
+Q 1997 4480 2016 4525 
+Q 1971 4582 1891 4608 
+Q 1811 4634 1741 4634 
+Q 1542 4634 1433 4518 
+Q 1325 4403 1280 4230 
+Q 1235 4058 1235 3872 
+L 1235 3200 
+L 2099 3200 
+L 2099 2950 
+L 1235 2931 
+L 1242 678 
+Q 1242 550 1238 451 
+Q 1235 352 1216 243 
+Q 1318 250 1417 253 
+Q 1517 256 1619 262 
+L 1619 0 
+L 314 0 
+L 314 192 
+Q 512 192 589 291 
+Q 666 390 678 566 
+Q 691 742 691 973 
+L 685 2925 
+L 160 2912 
+L 160 3200 
+L 685 3200 
+L 685 3334 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-362" d="M 2605 698 
+Q 2605 570 2601 454 
+Q 2598 339 2579 243 
+Q 2707 250 2828 253 
+Q 2950 256 3072 262 
+L 3072 0 
+L 1466 0 
+L 1466 211 
+L 1510 211 
+Q 1837 237 1929 451 
+Q 2022 666 2022 1018 
+L 2022 1235 
+L 77 1235 
+L 77 1549 
+L 2394 4582 
+L 2605 4582 
+L 2605 1619 
+L 3251 1613 
+L 3251 1235 
+L 2605 1235 
+L 2605 698 
+z
+M 2010 3674 
+L 499 1651 
+L 2022 1632 
+L 2022 3674 
+L 2010 3674 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-363" d="M 1626 -102 
+Q 1216 -102 928 35 
+Q 640 173 486 377 
+Q 333 582 333 768 
+Q 333 915 409 1014 
+Q 486 1114 627 1120 
+Q 800 1133 864 1027 
+Q 928 922 928 832 
+Q 928 768 909 704 
+Q 890 640 858 582 
+Q 883 429 1017 329 
+Q 1152 230 1328 185 
+Q 1504 141 1651 147 
+Q 1965 160 2157 317 
+Q 2349 474 2441 717 
+Q 2534 960 2534 1229 
+Q 2534 1408 2505 1625 
+Q 2477 1843 2377 2038 
+Q 2278 2234 2080 2362 
+Q 1882 2490 1542 2490 
+Q 1434 2490 1277 2464 
+Q 1120 2438 963 2387 
+Q 806 2336 698 2266 
+L 518 2432 
+L 506 4480 
+L 2163 4480 
+Q 2528 4480 2665 4579 
+Q 2803 4678 2803 4896 
+L 2976 4896 
+L 2938 4051 
+L 800 4006 
+L 800 2598 
+Q 954 2662 1200 2720 
+Q 1446 2778 1728 2778 
+Q 2125 2778 2403 2653 
+Q 2682 2528 2858 2320 
+Q 3034 2112 3117 1859 
+Q 3200 1606 3200 1344 
+Q 3200 870 2979 547 
+Q 2758 224 2400 61 
+Q 2042 -102 1626 -102 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-35e" d="M 1990 -102 
+Q 1504 -102 1184 106 
+Q 864 314 685 656 
+Q 506 998 432 1408 
+Q 358 1818 358 2221 
+Q 358 2624 451 3040 
+Q 544 3456 742 3805 
+Q 941 4154 1254 4368 
+Q 1568 4582 2016 4582 
+Q 2483 4582 2793 4371 
+Q 3104 4160 3286 3817 
+Q 3469 3475 3545 3065 
+Q 3622 2656 3622 2253 
+Q 3622 1856 3532 1440 
+Q 3443 1024 3251 675 
+Q 3059 326 2748 112 
+Q 2438 -102 1990 -102 
+z
+M 2029 147 
+Q 2304 147 2483 320 
+Q 2662 493 2768 781 
+Q 2874 1069 2918 1417 
+Q 2963 1766 2963 2118 
+Q 2963 2509 2918 2899 
+Q 2874 3290 2765 3616 
+Q 2656 3942 2470 4140 
+Q 2285 4339 2003 4339 
+Q 1728 4339 1539 4166 
+Q 1350 3994 1235 3706 
+Q 1120 3418 1069 3066 
+Q 1018 2714 1018 2355 
+Q 1018 2086 1043 1785 
+Q 1069 1485 1136 1193 
+Q 1203 902 1318 665 
+Q 1434 429 1606 288 
+Q 1779 147 2029 147 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-f7" d="M 2336 192 
+Q 2534 192 2611 291 
+Q 2688 390 2701 566 
+Q 2714 742 2714 973 
+L 2714 1869 
+Q 2714 2419 2538 2694 
+Q 2362 2970 1984 2963 
+Q 1747 2957 1520 2848 
+Q 1293 2739 1152 2566 
+L 1152 678 
+Q 1152 550 1145 451 
+Q 1139 352 1120 243 
+Q 1222 250 1321 253 
+Q 1421 256 1523 262 
+L 1523 0 
+L 218 0 
+L 218 192 
+Q 416 192 493 291 
+Q 570 390 586 566 
+Q 602 742 602 973 
+L 602 4000 
+Q 602 4102 605 4195 
+Q 608 4288 621 4416 
+Q 506 4410 394 4403 
+Q 282 4397 166 4390 
+L 166 4659 
+Q 448 4659 605 4684 
+Q 762 4710 842 4748 
+Q 922 4787 966 4832 
+L 1152 4832 
+L 1152 2880 
+Q 1363 3059 1644 3180 
+Q 1926 3302 2202 3302 
+Q 2758 3302 3004 2953 
+Q 3251 2605 3258 1869 
+L 3264 678 
+Q 3264 550 3261 451 
+Q 3258 352 3238 243 
+Q 3341 250 3440 253 
+Q 3539 256 3642 262 
+L 3642 0 
+L 2336 0 
+L 2336 192 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-2ab" d="M 429 1824 
+L 429 2272 
+L 2701 2272 
+L 2701 1850 
+L 429 1824 
+z
+" transform="scale(0.015625)"/>
+     <path id="Lora-Regular-f0" d="M 1824 -1734 
+Q 1248 -1734 896 -1606 
+Q 544 -1478 384 -1280 
+Q 224 -1082 224 -870 
+Q 224 -672 317 -521 
+Q 410 -371 547 -262 
+Q 685 -154 813 -102 
+Q 608 -32 489 86 
+Q 371 205 371 403 
+Q 371 627 550 822 
+Q 730 1018 1011 1062 
+Q 717 1203 541 1452 
+Q 365 1702 365 2035 
+Q 365 2419 563 2704 
+Q 762 2989 1072 3145 
+Q 1382 3302 1715 3302 
+Q 2150 3302 2528 3066 
+Q 2624 3334 2835 3510 
+Q 3046 3686 3302 3686 
+Q 3469 3686 3555 3600 
+Q 3642 3514 3642 3366 
+Q 3642 3296 3581 3197 
+Q 3520 3098 3366 3104 
+Q 3258 3104 3187 3168 
+Q 3117 3232 3098 3328 
+Q 2938 3302 2848 3177 
+Q 2758 3053 2726 2906 
+Q 2880 2765 2973 2566 
+Q 3066 2368 3066 2144 
+Q 3066 1786 2877 1504 
+Q 2688 1222 2381 1065 
+Q 2074 909 1715 909 
+Q 1594 909 1504 925 
+Q 1414 941 1286 941 
+Q 1050 941 902 825 
+Q 755 710 800 550 
+Q 851 397 1113 355 
+Q 1376 314 1818 294 
+Q 2310 275 2662 179 
+Q 3014 83 3203 -118 
+Q 3392 -320 3392 -666 
+Q 3392 -922 3254 -1123 
+Q 3117 -1325 2889 -1459 
+Q 2662 -1594 2384 -1664 
+Q 2106 -1734 1824 -1734 
+z
+M 1734 1139 
+Q 2093 1139 2269 1392 
+Q 2445 1645 2445 2016 
+Q 2445 2298 2361 2541 
+Q 2278 2784 2115 2931 
+Q 1952 3078 1702 3078 
+Q 1357 3078 1168 2819 
+Q 979 2560 979 2176 
+Q 979 1715 1177 1427 
+Q 1376 1139 1734 1139 
+z
+M 1818 -1485 
+Q 2368 -1485 2675 -1280 
+Q 2982 -1075 2982 -800 
+Q 2982 -563 2822 -438 
+Q 2662 -314 2387 -266 
+Q 2112 -218 1754 -211 
+Q 1581 -205 1414 -195 
+Q 1248 -186 1094 -160 
+Q 730 -403 730 -794 
+Q 730 -1107 1027 -1296 
+Q 1325 -1485 1818 -1485 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Lora-Regular-84"/>
+    <use xlink:href="#Lora-Regular-14a" transform="translate(56.109375 0)"/>
+    <use xlink:href="#Lora-Regular-136" transform="translate(115.8125 0)"/>
+    <use xlink:href="#Lora-Regular-da" transform="translate(175.515625 0)"/>
+    <use xlink:href="#Lora-Regular-139" transform="translate(229.71875 0)"/>
+    <use xlink:href="#Lora-Regular-15e" transform="translate(273.71875 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(324.21875 0)"/>
+    <use xlink:href="#Lora-Regular-13d" transform="translate(352.3125 0)"/>
+    <use xlink:href="#Lora-Regular-da" transform="translate(398.609375 0)"/>
+    <use xlink:href="#Lora-Regular-d6" transform="translate(452.3125 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(512.109375 0)"/>
+    <use xlink:href="#Lora-Regular-d0" transform="translate(538.40625 0)"/>
+    <use xlink:href="#Lora-Regular-10f" transform="translate(591.609375 0)"/>
+    <use xlink:href="#Lora-Regular-b7" transform="translate(618.8125 0)"/>
+    <use xlink:href="#Lora-Regular-13d" transform="translate(670.40625 0)"/>
+    <use xlink:href="#Lora-Regular-13d" transform="translate(716.703125 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(763 0)"/>
+    <use xlink:href="#Lora-Regular-171" transform="translate(791.09375 0)"/>
+    <use xlink:href="#Lora-Regular-d0" transform="translate(853.390625 0)"/>
+    <use xlink:href="#Lora-Regular-b7" transform="translate(906.59375 0)"/>
+    <use xlink:href="#Lora-Regular-145" transform="translate(957.484375 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(996.1875 0)"/>
+    <use xlink:href="#Lora-Regular-11d" transform="translate(1024.28125 0)"/>
+    <use xlink:href="#Lora-Regular-116" transform="translate(1082.78125 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(1143.484375 0)"/>
+    <use xlink:href="#Lora-Regular-2ad" transform="translate(1169.78125 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(1253.875 0)"/>
+    <use xlink:href="#Lora-Regular-367" transform="translate(1280.171875 0)"/>
+    <use xlink:href="#Lora-Regular-364" transform="translate(1337.96875 0)"/>
+    <use xlink:href="#Lora-Regular-294" transform="translate(1395.765625 0)"/>
+    <use xlink:href="#Lora-Regular-367" transform="translate(1420.359375 0)"/>
+    <use xlink:href="#Lora-Regular-309" transform="translate(1478.15625 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(1565.15625 0)"/>
+    <use xlink:href="#Lora-Regular-11d" transform="translate(1591.453125 0)"/>
+    <use xlink:href="#Lora-Regular-ef" transform="translate(1649.453125 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(1683.25 0)"/>
+    <use xlink:href="#Lora-Regular-362" transform="translate(1709.546875 0)"/>
+    <use xlink:href="#Lora-Regular-363" transform="translate(1763.75 0)"/>
+    <use xlink:href="#Lora-Regular-35e" transform="translate(1818.25 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(1880.34375 0)"/>
+    <use xlink:href="#Lora-Regular-f7" transform="translate(1906.640625 0)"/>
+    <use xlink:href="#Lora-Regular-da" transform="translate(1966.546875 0)"/>
+    <use xlink:href="#Lora-Regular-10f" transform="translate(2020.75 0)"/>
+    <use xlink:href="#Lora-Regular-d6" transform="translate(2047.953125 0)"/>
+    <use xlink:href="#Lora-Regular-2ab" transform="translate(2107.75 0)"/>
+    <use xlink:href="#Lora-Regular-11d" transform="translate(2156.65625 0)"/>
+    <use xlink:href="#Lora-Regular-14a" transform="translate(2215.15625 0)"/>
+    <use xlink:href="#Lora-Regular-145" transform="translate(2274.859375 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(2313.5625 0)"/>
+    <use xlink:href="#Lora-Regular-d6" transform="translate(2339.859375 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(2399.65625 0)"/>
+    <use xlink:href="#Lora-Regular-f0" transform="translate(2427.75 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(2485.453125 0)"/>
+    <use xlink:href="#Lora-Regular-145" transform="translate(2515.140625 0)"/>
+    <use xlink:href="#Lora-Regular-13d" transform="translate(2553.84375 0)"/>
+    <use xlink:href="#Lora-Regular-28d" transform="translate(2600.140625 0)"/>
+    <use xlink:href="#Lora-Regular-139" transform="translate(2626.4375 0)"/>
+    <use xlink:href="#Lora-Regular-fb" transform="translate(2669.734375 0)"/>
+    <use xlink:href="#Lora-Regular-f0" transform="translate(2697.828125 0)"/>
+    <use xlink:href="#Lora-Regular-f7" transform="translate(2755.53125 0)"/>
+    <use xlink:href="#Lora-Regular-145" transform="translate(2814.53125 0)"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p18fbc6a63e">
+   <rect x="19.187" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="pc14b4c2dea">
+   <rect x="68.597" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p41afa5f457">
+   <rect x="118.007" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="pac50be4b15">
+   <rect x="167.417" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="pcd303218f5">
+   <rect x="216.827" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="pe250f0d526">
+   <rect x="266.237" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p9914f66aa4">
+   <rect x="315.647" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p8d41137f9a">
+   <rect x="365.057" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p041d814e13">
+   <rect x="414.467" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p07113acbee">
+   <rect x="463.877" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p1278fc5637">
+   <rect x="513.287" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+  <clipPath id="p38aebbbacf">
+   <rect x="562.697" y="58.3" width="25.22" height="25.22"/>
+  </clipPath>
+ </defs>
+</svg>
