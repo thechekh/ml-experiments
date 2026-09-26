@@ -1,0 +1,51 @@
+{
+  "versions": "Python 3.12.6, scikit-learn 1.9.1, NumPy 2.5.3",
+  "cases": [
+    {
+      "key": "selection",
+      "title": "Feature selection before the split",
+      "data": "100 rows of pure noise, 10,000 features",
+      "metric": "accuracy",
+      "leaky": 0.8915,
+      "honest": 0.5195000000000001
+    },
+    {
+      "key": "oversampling",
+      "title": "Oversampling before the split",
+      "data": "ozone days, 6.3% positive",
+      "metric": "F1",
+      "leaky": 0.9926102277471488,
+      "honest": 0.3350816823117615
+    },
+    {
+      "key": "time",
+      "title": "Shuffled folds on a time series",
+      "data": "17,379 hourly bike rentals",
+      "metric": "R\u00b2",
+      "leaky": 0.9473921549626596,
+      "honest": 0.7968662736309993,
+      "blocked": 0.8339075695817073,
+      "mae": {
+        "shuffled": 26.071524929512975,
+        "ordered": 51.76469703910686
+      },
+      "mean_count": 189.46308763450142
+    },
+    {
+      "key": "groups",
+      "title": "The same mouse on both sides",
+      "data": "72 mice \u00d7 15 measurements, 8 classes",
+      "metric": "accuracy",
+      "leaky": 0.9901851851851852,
+      "honest": 0.6808253968253968
+    },
+    {
+      "key": "scaling",
+      "title": "Scaling before the split",
+      "data": "569 tumours, 30 features",
+      "metric": "accuracy",
+      "leaky": 0.98103089582363,
+      "honest": 0.9806800186306475
+    }
+  ]
+}
