@@ -10,6 +10,9 @@ it.
 | `bias_variance.py` | [Bias and variance, explained with one dataset](https://chekh.dev/writing/bias-and-variance-drawn-from-one-dataset/) | about 1 min |
 | `overfitting_fixes.py` | [Six fixes for overfitting, tested side by side](https://chekh.dev/writing/six-fixes-for-overfitting-measured-side-by-side/) | about 15 min on 12 cores; `--charts-only` redraws from `results/` in seconds |
 | `cv_mistakes.py` | [Cross-validation mistakes that fake a good score](https://chekh.dev/writing/cross-validation-mistakes-that-fake-a-good-score/) | about 2 min |
+| `regularisation_paths.py` | [L1, L2 and elastic net, watched on the weights](https://chekh.dev/writing/l1-l2-and-elastic-net-watched-on-the-weights/) | under 1 min |
+| `classification_metrics.py` | [Classification metrics that change the decision](https://chekh.dev/writing/classification-metrics-that-change-the-decision/) | about 1 min |
+| `regression_baselines.py` | [Regression: beat the baseline before you trust R²](https://chekh.dev/writing/regression-beat-the-baseline-before-you-trust-r-squared/) | under 1 min |
 
 ## Run it
 
@@ -46,6 +49,11 @@ The scripts are meant to be edited. Some places to start:
   training-set size); each fix's knob is chosen by cross-validation, so the comparison
   stays fair
 - `cv_mistakes.py` — put your own dataset through any of the five cases
+- `regularisation_paths.py` — change `NOISE` (how many fake features) or the
+  `L1_RATIOS` elastic net may choose from
+- `classification_metrics.py` — change `TARGET_RECALL`, or swap in another imbalanced
+  OpenML dataset by its `data_id`
+- `regression_baselines.py` — add a model to the `models` dict and it joins every chart
 
 Versions are pinned in `uv.lock`. The numbers in the articles were produced with Python
 3.12, scikit-learn 1.9 and NumPy 2.5; other versions may differ in the last digit.
